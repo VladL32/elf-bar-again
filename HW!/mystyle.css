@@ -1,0 +1,17 @@
+h1{ color:darkblue; font-family: Verdana, Geneva, Tahoma, sans-serif;}  
+h2{ color:darkblue; font-size: medium;}    
+ul {color: darkblue;font-size: medium;}
+li {color: darkblue;}      
+a:visited {color: darkblue; font-size: large;}
+a{color:aqua; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+table {border: 5px solid grey; background-color:black ;} 
+th {border: 2px solid grey;color:white}
+td {border: 2px solid grey;color:white ;}
+table {width: 600px;height: auto;} 
+body{padding: 3% ;}
+h3{display: none}
+a{margin: 5%;}
+h1{position: static;}
+.elf{ font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif; color:darkblue }
+.bar{font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif; color:darkblue }
+.connect{ font-size: large; color:blueviolet;  }
